@@ -20,7 +20,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 Simply insert one of the links below into [Onstrimeo App](https://play.google.com/store/apps/details?id=com.movieAndTvStream.subtitleDownloaderFree) and enjoy upto 4K Video content on your Android devices.
 
-![onstrimeo android app](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
+![onstrimeo android app](https://github.com/S58-Studio/Onstrimeo/blob/master/.readme/preview.png)
 
 ## Playlists
 
