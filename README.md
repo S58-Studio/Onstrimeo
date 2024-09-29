@@ -18,7 +18,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 ## How to use?
 
-Simply insert one of the links below into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
+Simply insert one of the links below into [Onstrimeo App](https://play.google.com/store/apps/details?id=com.movieAndTvStream.subtitleDownloaderFree) and enjoy upto 4K Video content on your Android devices.
 
 ![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
 
