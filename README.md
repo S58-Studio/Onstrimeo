@@ -20,7 +20,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 Simply insert one of the links below into [Onstrimeo App](https://play.google.com/store/apps/details?id=com.movieAndTvStream.subtitleDownloaderFree) and enjoy upto 4K Video content on your Android devices.
 
-![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
+![onstrimeo android app](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
 
 ## Playlists
 
@@ -865,14 +865,6 @@ Same thing, but split up into separate files:
 ## Database
 
 All channel data is taken from the [iptv-org/database](https://github.com/iptv-org/database) repository. If you find any errors please open a new [issue](https://github.com/iptv-org/database/issues) there.
-
-## API
-
-The API documentation can be found in the [iptv-org/api](https://github.com/iptv-org/api) repository.
-
-## Resources
-
-Links to other useful IPTV-related resources can be found in the [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) repository.
 
 ## Discussions
 
